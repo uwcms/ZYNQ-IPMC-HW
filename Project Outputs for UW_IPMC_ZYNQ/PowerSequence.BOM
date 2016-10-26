@@ -1,0 +1,35 @@
+Bill of Material for 
+On 26/10/2016 at 11:33:53
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.47uH              L2520_H          1    L?                           Inductor             
+ 1K                  R0603            1    R36                          Resistor             
+ 4.64K               R0603            1    R35                          Resistor             
+ 47nF                C0402            1    C43                          Capacitor (Semiconductor SIM Model) 
+ AD7689BCPZ          CP-20-4_N        2    U5, U6                       Octal 16-Bit PulSAR Analog-to-Digital Converter with Serial, SPI Interface, 250KSPS, -40 to +85 degC, CP-20-4, Pb-Free, Tube 
+ Cap                 1608[0603]       8    C13, C13, C14, C15, C16, C29 Capacitor            
+                                           C49, C52
+ Cap                 C0201           22    C5, C6, C7, C8, C9, C10, C11 Capacitor            
+                                           C12, C17, C18, C19, C20, C21
+                                           C22, C23, C24, C45, C47, C48
+                                           C50, C51, C53
+ Cap                 C0402           20    C1, C2, C3, C4, C25, C26, C27 Capacitor            
+                                           C28, C30, C31, C33, C34, C35
+                                           C36, C37, C38, C39, C40, C41
+                                           C42
+ Cap                 C0805_M          2    C44, C46                     Capacitor            
+ Cap                 C1210            1    C32                          Capacitor            
+ MINIDIMM244         miniDIMM244      1    J1                           244-pin miniDIMM pads 
+ MT41J128M16JT-96    MICT-JT-96       1    U2                                                
+ N25Q128A13ESE40E    MICT-SE-8_N      1    U4                           128 Mb (x1/x2/x4) Serial NOR Flash Memory with Multi I/O, 108 MHz, 2.7 to 3.6 V, 8-pin SO8 Wide (SE), Tray 
+ Res3                R0201           24    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20, R21, R22, R23, R24
+ Res3                R0402           14    R25, R26, R27, R28, R29, R30 Resistor             
+                                           R31, R32, R33, R34, R37, R38
+                                           R39, R40
+ TPS51200DRCR        DRC0010J_V       1    U3                           Single Output LDO, 3 A, 2.375 to 3.5 V Input, with DDR Termination, 10-pin SON (DRC), -40 to 85 degC, Green (RoHS & no Sb/Br) 
+ TPS62085            VSON-8_L         1    U?                           3-A Step-Down Converter With Hiccup Short-Circuit Protection 
+ XNLX-XC7Z020-CLG400 CLG400           1    U1                                                
