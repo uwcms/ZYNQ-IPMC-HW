@@ -71,7 +71,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JCCVHFCQ
 
 [Document3]
-DocumentPath=ZynqEMIO_Bank34.SchDoc
+DocumentPath=ZynqEMIO_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
