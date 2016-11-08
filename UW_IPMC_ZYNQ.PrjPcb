@@ -274,14 +274,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCKJGOSJ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\ZynqMIO.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\ZynqMIO.CSV
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=C:\CERN\*.*
 IncludeSubFolders=0
