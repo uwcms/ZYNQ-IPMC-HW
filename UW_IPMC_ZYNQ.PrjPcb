@@ -274,49 +274,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\ZynqMIO.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\ZynqMIO.CSV
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=C:\CERN\*.*
 IncludeSubFolders=0
 
 [Parameter1]
-Name=Title
-Value=IPMC Zynq Mezzanine
+Name=Address1
+Value=Madison, WI 53706
 
 [Parameter2]
-Name=Revision
-Value=revA
-
-[Parameter3]
-Name=Company
-Value=Univ. Wisconsin-Madison
-
-[Parameter4]
-Name=Author
-Value=Vicente, M., Gorski., T., Tikalsky, J.
-
-[Parameter5]
-Name=Address4
-Value=
-
-[Parameter6]
-Name=Address3
-Value=
-
-[Parameter7]
 Name=Address2
 Value=
 
+[Parameter3]
+Name=Address3
+Value=
+
+[Parameter4]
+Name=Address4
+Value=
+
+[Parameter5]
+Name=Author
+Value=Vicente, M., Gorski., T., Tikalsky, J.
+
+[Parameter6]
+Name=Company
+Value=Univ. Wisconsin-Madison
+
+[Parameter7]
+Name=Revision
+Value=revA
+
 [Parameter8]
-Name=Address1
-Value=Madison, WI 53706
+Name=Title
+Value=IPMC Zynq Mezzanine
 
 [Configuration1]
 Name=Default Configuration
