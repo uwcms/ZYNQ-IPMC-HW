@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for UW_IPMC_ZYNQ
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -357,7 +357,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UW_IPMC_ZYNQ
 
 [OutputGroup1]
 Name=Netlist Outputs
