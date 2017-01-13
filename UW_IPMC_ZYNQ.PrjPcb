@@ -275,6 +275,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UW_IPMC_ZYNQ\Design Rule Check - uw_ipmc_zynq.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\CERN\*.*
 IncludeSubFolders=0
