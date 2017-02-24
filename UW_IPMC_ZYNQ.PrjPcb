@@ -16,7 +16,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=
+DefaultConfiguration=Sources
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JCCVHFCQ
 
 [Document3]
+DocumentPath=IPMC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WYBIXXFM
+
+[Document4]
 DocumentPath=ZynqEMIO_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHASLHGQ
 
-[Document4]
+[Document5]
 DocumentPath=Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIAYFNUN
 
-[Document5]
+[Document6]
 DocumentPath=CustomParts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKUQYKKJ
 
-[Document6]
+[Document7]
 DocumentPath=CustomParts.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPJIGMSP
 
-[Document7]
+[Document8]
 DocumentPath=PowerSequence.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNEXFPSI
 
-[Document8]
+[Document9]
 DocumentPath=AnalogSense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTJVUBRT
 
-[Document9]
+[Document10]
 DocumentPath=ZynqPeripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDTAQHRM
 
-[Document10]
+[Document11]
 DocumentPath=ZynqDDR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHHPOYLX
 
-[Document11]
+[Document12]
 DocumentPath=BoardConnector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THYGJMSS
 
-[Document12]
+[Document13]
 DocumentPath=ZynqPower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBXXGBUE
 
-[Document13]
+[Document14]
 DocumentPath=uw_ipmc_zynq.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGYFNHYN
 
-[Document14]
+[Document15]
 DocumentPath=UW_IPMC_ZYNQ.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -280,14 +297,26 @@ DocumentPath=Project Outputs for UW_IPMC_ZYNQ\Design Rule Check - uw_ipmc_zynq.h
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\uw_ipmc_zynq.BOM
+DocumentPath=uw_ipmc_zynq 21-02-2017 17-25-43.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\uw_ipmc_zynq.CSV
+DocumentPath=uw_ipmc_zynq 21-02-2017 17-33-35.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=uw_ipmc_zynq 22-02-2017 14-43-40.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for UW_IPMC_ZYNQ\uw_ipmc_zynq.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for UW_IPMC_ZYNQ\uw_ipmc_zynq.CSV
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project Outputs for UW_IPMC_ZYNQ\uw_ipmc_zynq_bom.xlsx
 DItemRevisionGUID=
 
