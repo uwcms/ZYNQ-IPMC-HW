@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ZYNQ_IPMC.GBR   6/20/2019  3:07:02 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Component Side                          
+.GP1                Ground Plane 1 (GND)                    
+.G1                 Inner Layer 1                           
+.G2                 Inner Layer 2                           
+.GP2                Power Plane 1                           
+.GP3                Power Plane 2                           
+.G3                 Inner Layer 3                           
+.G4                 Inner Layer 4                           
+.GP4                Power Plane 3                           
+.GBL                Solder Side                             
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM15               Pick and Place                          
+.GM16               Fab Drawings                            
+.GM30               Bot Assembly                            
+.GM29               Top Assembly                            
+.GM4                Bottom Hard Gold                        
+.GM2                Outline                                 
+.GM3                Top Hard Gold                           
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

@@ -1,0 +1,132 @@
+*************************************************************
+FileName = ZYNQ_IPMC.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\component_side\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\component_side\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\ground_plane_1__gnd_\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\ground_plane_1__gnd_\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_1\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_1\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_2\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_2\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_1\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_1\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_2\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_2\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_3\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_3\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_4\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_4\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_3\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_3\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\solder_side\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\solder_side\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\outline\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\outline\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_hard_gold\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_hard_gold\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_hard_gold\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_hard_gold\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\mechanical_7\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\mechanical_7\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\component_placement\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\component_placement\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\pick_and_place\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\pick_and_place\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\fab_drawings\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\fab_drawings\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bot_assembly\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bot_assembly\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_assembly\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_assembly\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\eda\data
+

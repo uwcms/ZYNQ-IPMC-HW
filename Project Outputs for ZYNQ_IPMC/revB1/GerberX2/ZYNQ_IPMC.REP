@@ -1,0 +1,641 @@
+*************************************************************
+FileName = ZYNQ_IPMC.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : ZYNQ_IPMC_Copper_Signal_Top.gbr
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Ground Plane 1 (GND)
+      File : ZYNQ_IPMC_Copper_Plane_1.gbr
+
+    Adding Layer      : Ground Plane 1 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Inner Layer 1
+      File : ZYNQ_IPMC_Copper_Signal_1.gbr
+
+    Adding Layer      : Inner Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D45
+    D48
+    D51
+    D55
+    D59
+    D60
+    D61
+    D62
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Inner Layer 2
+      File : ZYNQ_IPMC_Copper_Signal_2.gbr
+
+    Adding Layer      : Inner Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D55
+    D59
+    D60
+    D61
+    D62
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Power Plane 1
+      File : ZYNQ_IPMC_Copper_Plane_2.gbr
+
+    Adding Layer      : Power Plane 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D63
+    D64
+    D65
+    D66
+    D67
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Power Plane 2
+      File : ZYNQ_IPMC_Copper_Plane_3.gbr
+
+    Adding Layer      : Power Plane 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D63
+    D64
+    D65
+    D66
+    D67
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Inner Layer 3
+      File : ZYNQ_IPMC_Copper_Signal_3.gbr
+
+    Adding Layer      : Inner Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D45
+    D51
+    D55
+    D59
+    D60
+    D61
+    D62
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Inner Layer 4
+      File : ZYNQ_IPMC_Copper_Signal_4.gbr
+
+    Adding Layer      : Inner Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D48
+    D55
+    D59
+    D60
+    D61
+    D62
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Power Plane 3
+      File : ZYNQ_IPMC_Copper_Plane_4.gbr
+
+    Adding Layer      : Power Plane 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D63
+    D64
+    D65
+    D66
+    D67
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : ZYNQ_IPMC_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D36
+    D42
+    D43
+    D44
+    D45
+    D46
+    D48
+    D50
+    D51
+    D52
+    D54
+    D55
+    D59
+    D60
+    D61
+    D62
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ZYNQ_IPMC_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D34
+    D35
+    D37
+    D38
+    D40
+    D41
+    D55
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ZYNQ_IPMC_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D55
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ZYNQ_IPMC_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D17
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D55
+    D72
+    D76
+    D77
+    D78
+    D79
+    D82
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ZYNQ_IPMC_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D55
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ZYNQ_IPMC_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D41
+    D55
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D117
+    D118
+    D119
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ZYNQ_IPMC_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D55
+    D87
+    D88
+    D90
+    D91
+    D92
+    D93
+    D94
+    D147
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bot Assembly
+      File : ZYNQ_IPMC_Mechanical_30.gbr
+
+    Adding Layer      : Bot Assembly
+
+
+Used DCodes :
+    D55
+    D88
+    D91
+    D149
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Bottom Hard Gold
+      File : ZYNQ_IPMC_Mechanical_4.gbr
+
+    Adding Layer      : Bottom Hard Gold
+
+
+Used DCodes :
+    D55
+    D152
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : ZYNQ_IPMC_Mechanical_2.gbr
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D153
+    D154
+*************************************************************
+
+*************************************************************
+Generating : Fab Drawings
+      File : ZYNQ_IPMC_Mechanical_16.gbr
+
+    Adding Layer      : Fab Drawings
+
+
+Used DCodes :
+    D55
+    D87
+    D90
+    D91
+    D92
+    D93
+    D94
+    D151
+    D153
+    D154
+    D155
+    D156
+    D157
+*************************************************************
+
+*************************************************************
+Generating : Top Hard Gold
+      File : ZYNQ_IPMC_Mechanical_3.gbr
+
+    Adding Layer      : Top Hard Gold
+
+
+Used DCodes :
+    D55
+    D152
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : ZYNQ_IPMC_Mechanical_29.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D55
+    D88
+    D91
+    D93
+    D94
+    D149
+    D150
+    D151
+    D155
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : ZYNQ_IPMC_PTH_Drill.gbr
+
+
+Used DCodes :
+    D159
+    D160
+    D161
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ZYNQ_IPMC_Drawing_1.gbr
+
+    Adding Drill Pair : Solder Side-Component Side
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D55
+    D93
+    D156
+    D162
+    D163
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ZYNQ_IPMC_Drillmap_1.gbr
+
+    Adding Drill Pair : Solder Side-Component Side
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D90
+*************************************************************
+
