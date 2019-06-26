@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~90|Field=Quantity~Integer~Quantity~90|Field=Designator~String~Designator~90|Field=Mfgr~String~Mfgr~90|Field=Mfg. Part No.~String~Mfg. Part No.~90|Field=Footprint~String~Footprint~170|Field=Value~String~Value~73|Field=Rating~String~Rating~73|Field=Tolerance~String~Tolerance~73|Field=INVKEY~String~INVKEY~127|Field=Note~String~Note~26|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~IPMC_TestBoard.PrjPcb|ReportField=ProjectFullPath~C:\CERN\APD\IPMC_TestBoard\IPMC_TestBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [IPMC_TestBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~87|ReportField=ReportTime~14:02:53|ReportField=ReportDate~24/03/2017|ReportField=ReportDateTime~24/03/2017 14:02:53|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Revision~revA|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~24/03/2017|ReportField=CurrentTime~13:59:28|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\CERN\APD\IPMC_TestBoard\IPMC_Control.SchDoc|ReportField=DocumentName~IPMC_Control.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~24/03/2017|ReportField=Organization~|ReportField=ProjectName~IPMC_TestBoard.PrjPcb|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~IPMC_TestBoard.PrjPcb|ReportField=DataSourceFullPath~C:\CERN\APD\IPMC_TestBoard\IPMC_TestBoard.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|47pF|6|C1, C3, C4, C11, C12, C13|Yageo|CC0402JRNPO9BN470|C0402|47pF|50V||CP0402-47PF-50V-5%|
+2|?|3|C2, C7, C10|Murata|GRM32ER60J107ME20L|C1210_IPC_H|100uF|6.3V||CP1210-100UF-6.3V-20%|
+3|150uF|3|C5, C8, C9|Kemet|A700X157M006ATE015|VISH-293D-7343-31_V|150uF|6.3V||CP7343-150uF-6.3V-ESR15-20%|
+4|?|1|C6|Panasonic-ECJ|ECJ-0EB1A473K|C0402_IPC_H|47nF|10V||CP0402-47NF-10V-10%|
+5|BLUE|6|D1, D4, D7, D8, D9, D10|Lite-On|LTST-S270TBKT|LED0603_M|BLUE|||LED-BL-RA-0603|
+6|GREEN|3|D2, D5, D11|Lite-On|LTST-S270KGKT|LED0603_M|GREEN|||LED-GRN-RA-UB-0603|
+7|OPEN|2|D3, D6|NA|NA|LED0603_M|OPEN|||?|Do not assemble
+8|Ethernet Jack|1|J1|Molex|43202-8916|43202-8916||||CO-43202-8916|
+9|MOLEX105017-0001|2|J2, J10|Molex|105017-0001|MOLEX105017-0001||||CO-USB-MICRO-SOLDERTAIL|
+10|MMC|2|J3, J4|TE Connectivity|5120527-1|5120527-1||||CO-PMC64-120527-1|
+11|IPMC|1|J5|Molex|87782-3009|87782-3007||||?|
+12|IPMI JTAG|1|J6|Molex|87832-1420|87832-1420||||CO-PIN-HDR-2X7SS-2MM|
+13|CTRL|1|J7|Molex|87782-3009|87782-3007||||?|
+14|CTRL JTAG|1|J8|Molex|87832-1420|87832-1420||||CO-PIN-HDR-2X7SS-2MM|
+15|CTRL ETH|1|J9|Molex|43202-8916|43202-8916||||CO-43202-8916|
+16|Header 20X2|1|P1|?|?|HEADER2X20||||?|Do not assemble
+17|MMC1 CTRL|1|P2|?|?|HEADER1X7||||?|Do not assemble
+18|MMC0 CTRL|1|P3|?|?|HEADER1X7||||?|Do not assemble
+19|JTAG Connect|1|P4|?|?|HEADER2X4||||?|
+20|IPMC XVC to CTRL JTAG|1|P5|?|?|HEADER2X4||||?|
+21|CTRL ADC-A|1|P6|?|?|HEADER1X9||||?|Do not assemble
+22|PWREN|1|P7|?|?|HEADER1X3||||?|
+23|CTRL ADC-B|1|P8|?|?|HEADER1X9||||?|Do not assemble
+24|CTRL GPIO|1|P9|?|?|HEADER2X20||||?|Do not assemble
+25|UWLVPWRMODV2-PAR|1|PM1|University of Wisconsin|UWLVPWRMODV2|UWLVPWRMODV2||||?|Refurbish from oRSCs
+26|?|24|R1, R2, R3, R4, R5, R6, R9, R10, R12, R13, R14, R15, R16, R17, R18, R19, R20, R22, R23, R24, R25, R26, R28, R30|?, ?, NA, ?, ?, NA, Panasonic-ECG, Panasonic-ECG, ?, NA, NA, NA, NA, Panasonic-ECG, ?, Panasonic-ECG, ?, ?, ?, ?, Panasonic-ECG, Panasonic-ECG, Panasonic-ECG, Panasonic-ECG|?, ?, NA, ?, ?, NA, ERJ-2GEJ472X, ERJ-2GEJ103X, ?, NA, NA, NA, NA, ERJ-2GEJ103X, ?, ERJ-2GEJ103X, ?, ?, ?, ?, ERJ-2GEJ103X, ERJ-2GEJ103X, ERJ-2GEJ103X, ERJ-2GEJ472X|R0402_IPC_H|681, 681, OPEN, 681, 681, OPEN, 4.7K, 10k, 681, OPEN, OPEN, OPEN, OPEN, 10k, 681, 10k, 681, 681, 332, 681, 10k, 10k, 10k, 4.7K||1%, 1%, 1%, 1%, 1%, 1%, 5%, 5%, 1%, 1%, 1%, 1%, 1%, 5%, 1%, 5%, 1%, 1%, 1%, 1%, 5%, 5%, 5%, 5%|?, ?, RS0402-OPEN-1/10W, ?, ?, RS0402-OPEN-1/10W, RS0402-4K7-1/10W-5%, RS0402-10K-1/10W-5%, ?, RS0402-OPEN-1/10W, RS0402-OPEN-1/10W, RS0402-OPEN-1/10W, RS0402-OPEN-1/10W, RS0402-10K-1/10W-5%, ?, RS0402-10K-1/10W-5%, ?, ?, ?, ?, RS0402-10K-1/10W-5%, RS0402-10K-1/10W-5%, RS0402-10K-1/10W-5%, RS0402-4K7-1/10W-5%|[NoValue], [NoValue], Do not assemble, [NoValue], [NoValue], Do not assemble, [NoValue], [NoValue], [NoValue], Do not assemble, Do not assemble, Do not assemble, Do not assemble, [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue]
+27|27|4|R7, R8, R31, R32|?|?|R0603|27|||?|
+28|100|4|R11, R21, R27, R29|Yageo|RC0603FR-07100RL|R0603|100|||RS0603-100R-1/10W-1%|
+29|?|2|R33, R34|Panasonic-ECG|ERA-2AEB4531X, ERJ-2RKF26R1X|R0402|4.53k, 26.1||0.1%, 1%|RS0402-4K53-1/16W-PREC, RS0402-26R1-1/10W-1%|
+30|SW-DIP-8|3|SW1, SW2, SW4|C&K|TDA08HOSB1|TDA08H0||||SW-DIP-8X-SMD|
+31|DTSM-61NT/R|2|SW3, SW5|?|?|DIPT-DTSM-6_V||||?|
+32|TP|1|TP1|NA|NA|TP||||NA|Not a part
+33|FT234XD-T|2|U1, U3|?|?|DFN-12_V||||?|
+34|ADR5040|1|U2|Analog Devices|ADR5040ARTZ|SOT23-H||||VREF-ADR5040A-SOT23|

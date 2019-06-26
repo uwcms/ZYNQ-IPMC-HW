@@ -1,0 +1,82 @@
+*************************************************************
+FileName = IPMC_TestBoard_PCB.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\component_side\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\component_side\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\ground_plane\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\ground_plane\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\power_plane\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\power_plane\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\solder_side\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\solder_side\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\outline\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\outline\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\component_placement\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\component_placement\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\pick_and_place\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\pick_and_place\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\fab_drawings\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\fab_drawings\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_assembly\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\top_assembly\attrlist
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\marce\Documents\CERN\APD\IPMC\Schematic\svn\trunk\TestBoard\Project Outputs for IPMC_TestBoard\revA\ODB\odb\symbols\oval71.1811x43.622_360\features
+

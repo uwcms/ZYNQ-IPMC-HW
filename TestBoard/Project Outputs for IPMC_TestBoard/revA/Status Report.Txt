@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [IPMC_TestBoard_PCB.PcbDoc]
+   Generated File[IPMC_TestBoard_PCB.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:07:10 PM On 6/26/2019

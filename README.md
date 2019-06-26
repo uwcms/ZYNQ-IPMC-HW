@@ -9,14 +9,16 @@ Department of Physics, University of Wisconsin-Madison, USA
 	- [1. Overview](#1-overview)
 	- [2. Altium Symbol and Footprint Library](#2-altium-symbol-and-footprint-library)
 	- [3. Picking between Zynq-7014S and Zynq-7020](#3-picking-between-zynq-7014s-and-zynq-7020)
-	- [4. Fabrication and Assembly](#4-fabrication-and-assembly)
-		- [4.1. Fabrication Package](#41-fabrication-package)
-		- [4.2. Assembly Package](#42-assembly-package)
-	- [5. Disclaimer and Licensing](#5-disclaimer-and-licensing)
+	- [4. Bring-up and Testing](#4-bring-up-and-testing)
+	- [5. Fabrication and Assembly](#5-fabrication-and-assembly)
+		- [5.1. Fabrication Package](#51-fabrication-package)
+		- [5.2. Assembly Package](#52-assembly-package)
+	- [6. Disclaimer and Licensing](#6-disclaimer-and-licensing)
 
 <!-- /TOC -->
 
 ## 1. Overview
+
 ZYNQ-IPMC is a high versatile open-source self-contained Intelligent Platform
 Management Controller (IPMC) in a miniDIMM-244 mezzanine form factor with
 extended monitoring features targeted for Advance Telecommunications Computing
@@ -47,14 +49,23 @@ core nor FPGA resources. Therefore, the Zynq-7014S is recommended for most appli
 From tests and experimentation a medium to high populated ZYNQ-IPMC solution requires
 around 25% of resources from a Zynq-7020.
 
-## 4. Fabrication and Assembly
+## 4. Bring-up and Testing
+
+Standard electrical checks for hardware bring-up should be followed (e.g. visual
+inspection, ohm-meter tests, voltage levels, etc.) before inserting the IPMC onto
+an actual carrier.
+
+The [ZYNQ-IPMC Test Board](TestBoard) can be used for these tests and a few more,
+such as GPIO short/floating detection. As long as electrical checks are fine there should
+
+## 5. Fabrication and Assembly
 
 All files required to fabrication and assembly are included in this repository.
 They can be found at [here](Project%20Outputs%20for%20ZYNQ_IPMC/revB1).
 
 Recommendations on how to prepare packages for each fabrication step is below.
 
-### 4.1. Fabrication Package
+### 5.1. Fabrication Package
 
 The following folders and files are recommended to be sent the PCB fabrication house:
  - Gerbers (either Gerber or GerberX2)
@@ -64,7 +75,7 @@ The following folders and files are recommended to be sent the PCB fabrication h
  - Drill drawings (ZYNQ-IPMC-DrillDrawing.PDF)
 
 
-### 4.2. Assembly Package
+### 5.2. Assembly Package
 
 The following folders and files are recommended to be sent the assembly house:
  - Gerbers (either Gerber or GerberX2)
@@ -72,6 +83,6 @@ The following folders and files are recommended to be sent the assembly house:
  - Pick and Place
  - Assembly drawings (ZYNQ_IPMC-Assembly.PDF)
 
-## 5. Disclaimer and Licensing
+## 6. Disclaimer and Licensing
 
 The project is distributed as-in under the MIT license agreement as seen [here](LICENSE.md).
