@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for ZYNQ_IPMC
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -294,643 +294,423 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\BOM\Bill of Materials-UW_IPMC_ZYNQ.xlsx
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\BOM\Bill of Materials-ZYNQ_IPMC.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\BOM\Bill of Materials-UW_IPMC_ZYNQ.xlsx
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for ZYNQ_IPMC\Design Rule Check - ZYNQ_IPMC.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Test Points\Fabrication Testpoint Report for ZYNQ_IPMC.ipc
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bot_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_hard_gold\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\Design Rule Check - uw_ipmc_zynq.html
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ZYNQ_IPMC\Design Rule Check - Zynq_IPMC.html
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\Test Points\Fabrication Testpoint Report for uw_ipmc_zynq.ipc
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\Test Points\Fabrication Testpoint Report for uw_ipmc_zynq.ipc
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\bot_assembly\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\bottom_hard_gold\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\component_placement\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\component_side\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\fab_drawings\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\ground_plane_1__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\component_placement\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\component_side\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\inner_layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\fab_drawings\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\ground_plane_1__gnd_\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\mechanical_7\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\inner_layer_1\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\inner_layer_2\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\pick_and_place\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\inner_layer_3\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\inner_layer_4\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\power_plane_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\mechanical_7\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\solder_side\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\outline\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\pick_and_place\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_hard_gold\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\power_plane_1\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\power_plane_2\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\power_plane_3\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\solder_side\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\top_assembly\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\top_hard_gold\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Pick Place\Pick Place for ZYNQ_IPMC.csv
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=..\..\..\..\..\..\..\AppData\Local\Temp\Pro740A.xls
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\bot_assembly\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\bottom_hard_gold\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\NC Drill\ZYNQ_IPMC-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\NC Drill\ZYNQ_IPMC.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\NC Drill\ZYNQ_IPMC.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.G1
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\component_placement\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.G2
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\component_side\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.G3
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.G4
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\fab_drawings\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\ground_plane_1__gnd_\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\inner_layer_1\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\inner_layer_2\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\inner_layer_3\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\inner_layer_4\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\mechanical_7\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\outline\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\pick_and_place\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\power_plane_1\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\power_plane_2\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM29
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\power_plane_3\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GM30
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\solder_side\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\top_assembly\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\top_hard_gold\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GP4
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\NC Drill\ZYNQ_IPMC.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.REP
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\Pick Place\Pick Place for uw_ipmc_zynq.csv
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC.REP
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\Pick Place\Pick Place for uw_ipmc_zynq.csv
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\ZYNQ_IPMC.REP
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\Gerber\ZYNQ_IPMC.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ODB\odb\user\ZYNQ_IPMC.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\ExportSTEP\ZYNQ_IPMC.step
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\steps\pcb\layers\drill\tools
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\steps\pcb\layers\drill\tools
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=uw_ipmc_zynq 03-03-2017 17-43-48.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Plane_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=uw_ipmc_zynq 06-03-2017 16-38-00.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Plane_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=uw_ipmc_zynq 6-7-2018 4-57-01 PM.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=uw_ipmc_zynq 6-7-2018 4-58-32 PM.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=uw_ipmc_zynq 8-7-2018 11-54-19 AM.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=uw_ipmc_zynq 21-02-2017 17-25-43.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=uw_ipmc_zynq 21-02-2017 17-33-35.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=uw_ipmc_zynq 22-02-2017 14-43-40.WAS
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\NC Drill\uw_ipmc_zynq-Plated.TXT
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\NC Drill\uw_ipmc_zynq-Plated.TXT
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\NC Drill\uw_ipmc_zynq.DRL
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\NC Drill\uw_ipmc_zynq.DRL
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\NC Drill\uw_ipmc_zynq.DRR
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\NC Drill\uw_ipmc_zynq.DRR
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Mechanical_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq.EXTREP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Mechanical_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq.EXTREP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Mechanical_16.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\NC Drill\uw_ipmc_zynq.LDP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Mechanical_29.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\NC Drill\uw_ipmc_zynq.LDP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Mechanical_30.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq.REP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\uw_ipmc_zynq.REP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq.REP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\uw_ipmc_zynq.REP
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument106]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ODB\odb\user\uw_ipmc_zynq.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument107]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument108]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ODB\odb\user\uw_ipmc_zynq.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument109]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\ExportSTEP\uw_ipmc_zynq.step
-DItemRevisionGUID=
-
-[GeneratedDocument110]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\ExportSTEP\uw_ipmc_zynq.step
-DItemRevisionGUID=
-
-[GeneratedDocument111]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Plane_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument112]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Plane_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument113]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Plane_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument114]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Plane_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument115]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Plane_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument116]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Plane_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument117]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Plane_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument118]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Plane_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument119]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument120]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument121]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument122]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument123]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Signal_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument124]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Signal_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument125]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Signal_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument126]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Signal_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument127]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument128]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument129]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument130]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument131]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument132]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument133]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument134]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument135]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument136]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument137]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument138]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument139]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Mechanical_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument140]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Mechanical_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument141]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument142]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument143]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Mechanical_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument144]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Mechanical_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument145]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Mechanical_16.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument146]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Mechanical_16.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument147]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Mechanical_29.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument148]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Mechanical_29.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument149]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Mechanical_30.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument150]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Mechanical_30.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument151]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument152]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument153]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument154]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument155]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument156]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument157]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument158]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument159]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revA\GerberX2\uw_ipmc_zynq_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument160]
-DocumentPath=Project Outputs for UW_IPMC_ZYNQ\revB\GerberX2\uw_ipmc_zynq_Soldermask_Top.gbr
+DocumentPath=Project Outputs for ZYNQ_IPMC\revB1\GerberX2\ZYNQ_IPMC_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -938,36 +718,36 @@ Path=C:\CERN\*.*
 IncludeSubFolders=0
 
 [Parameter1]
-Name=Title
-Value=ZYNQ-IPMC
+Name=Address1
+Value=Madison, WI 53706
 
 [Parameter2]
-Name=Revision
-Value=revB1
-
-[Parameter3]
-Name=Company
-Value=Univ. Wisconsin-Madison
-
-[Parameter4]
-Name=Author
-Value=Marcelo Vicente
-
-[Parameter5]
-Name=Address4
-Value=
-
-[Parameter6]
-Name=Address3
-Value=
-
-[Parameter7]
 Name=Address2
 Value=USA
 
+[Parameter3]
+Name=Address3
+Value=
+
+[Parameter4]
+Name=Address4
+Value=
+
+[Parameter5]
+Name=Author
+Value=Marcelo Vicente
+
+[Parameter6]
+Name=Company
+Value=Univ. Wisconsin-Madison
+
+[Parameter7]
+Name=Revision
+Value=revB1
+
 [Parameter8]
-Name=Address1
-Value=Madison, WI 53706
+Name=Title
+Value=ZYNQ-IPMC
 
 [Configuration1]
 Name=Sources
@@ -1036,7 +816,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for ZYNQ_IPMC
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1686,6 +1466,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

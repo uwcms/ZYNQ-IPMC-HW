@@ -41,9 +41,8 @@ Both Zynq-7014S and Zynq-7020 are pin-compatible and can be assembled in the ZYN
 The primary different is that the Zynq-7014S is a single core and has roughly
 20% less resources than the Zynq-7020. The Zynq-7014S is also cheaper.
 
-ZYNQ-IPMC framework only uses a single-core and won't benefit from an additional core.
-Most applications won't need the extra resources from the Zynq-7020, therefore
-the Zynq-7014S is recommended for most applications.
+ZYNQ-IPMC framework only uses a single-core and won't benefit from an additional
+core nor FPGA resources. Therefore, the Zynq-7014S is recommended for most applications.
 
 From tests and experimentation a medium to high populated ZYNQ-IPMC solution requires
 around 25% of resources from a Zynq-7020.

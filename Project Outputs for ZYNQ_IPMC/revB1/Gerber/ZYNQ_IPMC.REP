@@ -74,7 +74,7 @@ Generating : Ground Plane 1 (GND)
 
 
 Used DCodes :
-    D51
+    D43
     D61
     D62
     D63
@@ -91,10 +91,10 @@ Generating : Inner Layer 1
 
 
 Used DCodes :
-    D42
+    D43
     D45
     D48
-    D51
+    D49
     D58
     D59
     D60
@@ -113,8 +113,8 @@ Generating : Inner Layer 2
 
 
 Used DCodes :
-    D42
-    D51
+    D43
+    D45
     D58
     D59
     D60
@@ -133,8 +133,8 @@ Generating : Power Plane 1
 
 
 Used DCodes :
-    D50
-    D51
+    D43
+    D47
     D61
     D62
     D63
@@ -151,8 +151,8 @@ Generating : Power Plane 2
 
 
 Used DCodes :
-    D50
-    D51
+    D43
+    D47
     D61
     D62
     D63
@@ -169,9 +169,9 @@ Generating : Inner Layer 3
 
 
 Used DCodes :
-    D42
+    D43
     D45
-    D51
+    D49
     D58
     D59
     D60
@@ -190,9 +190,9 @@ Generating : Inner Layer 4
 
 
 Used DCodes :
-    D42
+    D43
+    D45
     D48
-    D51
     D58
     D59
     D60
@@ -211,8 +211,8 @@ Generating : Power Plane 3
 
 
 Used DCodes :
-    D50
-    D51
+    D43
+    D47
     D61
     D62
     D63
@@ -229,14 +229,12 @@ Generating : Solder Side
 
 
 Used DCodes :
-    D15
-    D19
-    D20
-    D23
-    D25
-    D26
+    D18
+    D21
     D27
-    D32
+    D29
+    D30
+    D31
     D33
     D34
     D35
@@ -244,16 +242,18 @@ Used DCodes :
     D37
     D38
     D39
+    D40
+    D41
     D42
     D43
     D44
     D45
     D46
+    D47
     D48
+    D49
     D50
     D51
-    D52
-    D54
     D58
     D59
     D60
@@ -277,10 +277,10 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D42
-    D51
-    D54
-    D66
+    D43
+    D45
+    D50
+    D65
     D78
     D79
     D80
@@ -305,18 +305,19 @@ Used DCodes :
     D12
     D13
     D14
-    D15
     D16
-    D18
+    D17
     D19
+    D20
     D21
     D22
-    D23
     D24
     D25
     D26
+    D27
     D28
     D29
+    D30
     D31
     D32
     D33
@@ -325,10 +326,9 @@ Used DCodes :
     D36
     D37
     D38
-    D39
     D40
     D41
-    D51
+    D43
     D84
     D85
     D86
@@ -349,8 +349,8 @@ Generating : Top Solder
 
 Used DCodes :
     D10
-    D20
-    D51
+    D18
+    D43
     D89
     D90
     D91
@@ -396,15 +396,13 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D20
-    D51
-    D94
-    D98
-    D101
-    D103
-    D104
+    D18
+    D43
+    D99
     D105
-    D110
+    D107
+    D108
+    D109
     D111
     D112
     D113
@@ -412,6 +410,8 @@ Used DCodes :
     D115
     D116
     D117
+    D118
+    D119
     D120
     D121
     D122
@@ -439,26 +439,26 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D15
-    D19
-    D23
-    D25
-    D26
-    D32
+    D21
+    D27
+    D29
+    D30
+    D31
     D33
     D34
     D35
     D36
     D37
     D38
-    D39
-    D51
+    D40
+    D41
+    D43
     D69
+    D70
     D71
     D72
-    D75
     D76
-    D86
+    D87
     D121
     D133
     D134
@@ -478,14 +478,14 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D42
-    D51
-    D54
-    D66
+    D43
+    D45
+    D50
+    D65
     D78
     D79
     D81
-    D83
+    D82
     D141
 *************************************************************
 
@@ -510,15 +510,15 @@ Generating : Fab Drawings
 
 Used DCodes :
     D42
+    D43
     D44
     D45
-    D46
-    D51
-    D54
-    D66
+    D49
+    D50
+    D65
     D79
     D81
-    D83
+    D82
     D143
     D144
     D145
@@ -532,7 +532,7 @@ Generating : Bot Assembly
 
 
 Used DCodes :
-    D51
+    D43
     D78
     D81
     D142
@@ -548,13 +548,13 @@ Generating : Top Assembly
 
 
 Used DCodes :
-    D42
-    D51
-    D66
+    D43
+    D45
+    D65
     D78
     D81
     D142
-    D144
+    D143
     D145
     D146
     D147
@@ -568,7 +568,7 @@ Generating : Bottom Hard Gold
 
 
 Used DCodes :
-    D51
+    D43
     D148
 *************************************************************
 
@@ -580,8 +580,8 @@ Generating : Outline
 
 
 Used DCodes :
-    D46
-    D143
+    D42
+    D144
 *************************************************************
 
 *************************************************************
@@ -592,7 +592,7 @@ Generating : Top Hard Gold
 
 
 Used DCodes :
-    D51
+    D43
     D148
 *************************************************************
 
@@ -606,9 +606,9 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D45
-    D51
-    D66
+    D43
+    D49
+    D65
     D67
     D149
 *************************************************************
