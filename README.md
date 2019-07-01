@@ -52,11 +52,11 @@ around 25% of resources from a Zynq-7020.
 ## 4. Bring-up and Testing
 
 Standard electrical checks for hardware bring-up should be followed (e.g. visual
-inspection, ohm-meter tests, voltage levels, etc.) before inserting the IPMC onto
-an actual carrier.
+inspection, ohm-meter tests, voltage levels, etc.) before inserting the IPMC on a
+carrier.
 
-The [ZYNQ-IPMC Test Board](TestBoard) can be used for these tests and a few more,
-such as GPIO short/floating detection. As long as electrical checks are fine there should
+The [ZYNQ-IPMC Test Board](TestBoard) can be used for these tests and additional
+connectivity tests.
 
 ## 5. Fabrication and Assembly
 
