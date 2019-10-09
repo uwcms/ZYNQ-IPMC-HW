@@ -1,3 +1,5 @@
+! The ZYNQ-IPMC Software Framework resides [here](https://github.com/uwcms/IPMC).
+
 # ZYNQ-IPMC Official Hardware Repository
 Department of Physics, University of Wisconsin-Madison, USA
 
